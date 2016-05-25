@@ -1,0 +1,8 @@
+*.class
+target
+*.iml
+*.ipr
+.DS_Store
+data
+check
+.idea
